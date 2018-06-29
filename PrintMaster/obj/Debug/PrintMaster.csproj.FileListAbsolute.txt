@@ -1,0 +1,29 @@
+c:\users\agoungoulou\documents\visual studio 2017\Projects\PrintMaster\bin\Debug\PrintMaster.exe.config
+c:\users\agoungoulou\documents\visual studio 2017\Projects\PrintMaster\bin\Debug\PrintMaster.exe
+c:\users\agoungoulou\documents\visual studio 2017\Projects\PrintMaster\bin\Debug\PrintMaster.pdb
+c:\users\agoungoulou\documents\visual studio 2017\Projects\PrintMaster\obj\Debug\PrintMaster.csprojResolveAssemblyReference.cache
+c:\users\agoungoulou\documents\visual studio 2017\Projects\PrintMaster\obj\Debug\PrintMaster.Properties.Resources.resources
+c:\users\agoungoulou\documents\visual studio 2017\Projects\PrintMaster\obj\Debug\PrintMaster.csproj.GenerateResource.Cache
+c:\users\agoungoulou\documents\visual studio 2017\Projects\PrintMaster\obj\Debug\PrintMaster.exe
+c:\users\agoungoulou\documents\visual studio 2017\Projects\PrintMaster\obj\Debug\PrintMaster.pdb
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMaster\obj\Debug\PrintMaster.frmViewer.resources
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMaster\bin\Debug\PrintMasterInterface.dll
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMaster\bin\Debug\PrintMasterInterface.pdb
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMaster\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMaster\obj\Debug\PrintMaster.frmFirstMenu.resources
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMaster\obj\Debug\PrintMaster.frmMaster.resources
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMaster\bin\Debug\PrintMasterInterface.dll.config
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\bin\Debug\PrintMaster.exe.config
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\bin\Debug\PrintMaster.exe
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\bin\Debug\PrintMaster.pdb
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\bin\Debug\PrintMasterInterface.dll
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\bin\Debug\PrintMasterInterface.pdb
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\bin\Debug\PrintMasterInterface.dll.config
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\obj\Debug\PrintMaster.csprojResolveAssemblyReference.cache
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\obj\Debug\PrintMaster.frmFirstMenu.resources
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\obj\Debug\PrintMaster.frmMaster.resources
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\obj\Debug\PrintMaster.frmViewer.resources
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\obj\Debug\PrintMaster.Properties.Resources.resources
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\obj\Debug\PrintMaster.csproj.GenerateResource.Cache
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\obj\Debug\PrintMaster.exe
+C:\Users\agoungoulou\Source\Repos\EasyLabels\PrintMaster\obj\Debug\PrintMaster.pdb

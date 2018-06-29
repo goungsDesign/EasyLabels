@@ -1,0 +1,7 @@
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMasterInterface\bin\Debug\PrintMasterInterface.dll
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMasterInterface\bin\Debug\PrintMasterInterface.pdb
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMasterInterface\obj\Debug\PrintMasterInterface.csprojResolveAssemblyReference.cache
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMasterInterface\obj\Debug\PrintMasterInterface.dll
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMasterInterface\obj\Debug\PrintMasterInterface.pdb
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMasterInterface\bin\Debug\PrintMasterInterface.dll.config
+C:\Users\agoungoulou\Documents\Visual Studio 2017\Projects\PrintMasterInterface\bin\Debug\Zen.Barcode.Core.dll
